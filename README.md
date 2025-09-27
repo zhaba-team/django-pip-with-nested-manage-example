@@ -1,0 +1,1 @@
+# django-pip-with-nested-manage-example
